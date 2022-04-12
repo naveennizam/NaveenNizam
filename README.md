@@ -25,4 +25,4 @@
 
 <br/>
 <br/>
-<img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenNizam&langs_count=8" />
+<img align="left"  alt="GitHub"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenNizam&langs_count=8" />
