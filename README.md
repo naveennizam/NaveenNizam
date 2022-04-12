@@ -21,8 +21,8 @@
 <br/>
 <br/>
 
-<img align="left" alt="Naveen Nizam Github Stats" src="https://github-readme-stats.vercel.app/api?username=NaveenNizam&show_icons=true&theme=radical" />
+<img  alt="Naveen Nizam Github Stats" src="https://github-readme-stats.vercel.app/api?username=NaveenNizam&show_icons=true&theme=radical" />
 
 <br/>
 <br/>
-<img align="left" alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenNizam&langs_count=8" />
+<img  alt="GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenNizam&langs_count=8" />
