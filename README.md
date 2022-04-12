@@ -20,5 +20,9 @@
 
 <br/>
 <br/>
----
+
 <img align="left" alt="Naveen Nizam Github Stats" src="https://github-readme-stats.vercel.app/api?username=NaveenNizam&show_icons=true&theme=radical" />
+
+<br/>
+<br/>
+<img align="left" alt="GitHub" width="26px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenNizam&langs_count=8" />
