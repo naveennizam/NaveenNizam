@@ -19,7 +19,7 @@
 <img align="left" src="http://www.annarpack.com/wp-content/uploads/2017/11/react_js.png" alt="react logo" width = '28px'>
 
 <img align="left" alt="GitHub" width="24px" src="a.png" />
-
+<img align="left" src="logo192.png" alt="react logo" width = '28px'>
 <br/>
 <br/>
 <br/>
