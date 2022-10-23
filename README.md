@@ -16,10 +16,8 @@
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="26px">
 
-<img align="left" src="http://www.annarpack.com/wp-content/uploads/2017/11/react_js.png" alt="react logo" width = '28px'>
-
-<img align="left" alt="GitHub" width="24px" src="a.png" />
 <img align="left" src="logo192.png" alt="react logo" width = '28px'>
+<img align="left" alt="GitHub" width="24px" src="a.png" />
 <br/>
 <br/>
 <br/>
