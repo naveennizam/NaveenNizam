@@ -18,8 +18,8 @@
 
 
 <img align="left" alt="GitHub" width="24px" src="a.png" />
-<img align="left" alt="GitHub" width="24px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
-<img align="left" alt="GitHub" width="24px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAJYV2-w3aDBAzmgn7ifgeuWYkkRUOdnWDQ&usqp=CAU" />
+<img align="left" alt="MySQL" width="24px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
+<img align="left" alt="Next.Js"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAJYV2-w3aDBAzmgn7ifgeuWYkkRUOdnWDQ&usqp=CAU" />
 
 <br/>
 <br/>
