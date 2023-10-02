@@ -19,7 +19,7 @@
 
 <img align="left" alt="GitHub" width="24px" src="a.png" />
 <img align="left" alt="GitHub" width="24px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
-<img align="left" alt="GitHub" width="24px" src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" />
+<img align="left" alt="GitHub" width="24px" src="https://www.datocms-assets.com/205/1667580983-next.svg?auto=format&fit=max&w=600" />
 
 <br/>
 <br/>
