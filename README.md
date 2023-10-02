@@ -1,8 +1,8 @@
 ### Hi, I'm Naveen Nizam
 
-## I'm Teacher, Student and Developer!
-- 📚 I'm learning many things about Computer.
-- ⌨️ Contribute more open source project.
+## I'm a Learner and Developer!
+- 📚 I'm learning many things about computers.
+- ⌨️ Contribute more open source projects.
 - 👍 I love to do work.
 
 ### Languages & Tools:
