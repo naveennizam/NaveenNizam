@@ -19,6 +19,7 @@
 
 <img align="left" alt="GitHub" width="24px" src="a.png" />
 <img align="left" alt="GitHub" width="24px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
+<img align="left" alt="GitHub" width="24px" src="https://mikevpeeren.nl/_next/static/media/next_logo.79d7b4bd.png" />
 
 <br/>
 <br/>
