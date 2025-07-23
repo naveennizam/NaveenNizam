@@ -19,7 +19,7 @@
 
 <img align="left" alt="GitHub" width="24px" src="a.png" />
 <img align="left" alt="MySQL" width="24px" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" />
-<img align="left" alt="Next.Js" height="20px" width="50px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
+<img align="left" alt="Next.Js" height="20px" width="50px" src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" />
 
 <br/>
 <br/>
